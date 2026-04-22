@@ -1,6 +1,6 @@
 # Smart Watch Project
 
-## Project Overview
+## Overview
 
 This project is an IoT-based Smart Watch system developed using an ESP32 microcontroller. The smart watch is designed to monitor important real-time health and environmental parameters while also providing wireless connectivity for remote monitoring and smart notifications.
 
