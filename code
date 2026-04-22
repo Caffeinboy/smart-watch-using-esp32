@@ -34,7 +34,7 @@ BlynkTimer timer;
 // ---------------- Variables ----------------
 float bodyTemp = 0;
 int bpm = 0;
-int spo2 = 98; // placeholder estimate
+int spo2 = 0; 
 int stepCount = 0;
 bool fallDetected = false;
 
